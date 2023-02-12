@@ -5,7 +5,7 @@ Forward requests and inject CloudFlare cookies
 
 ### One-click scripts 
 
-- With Docker: `curl https://raw.githubusercontent.com/acheong08/ChatGPT-Proxy/main/scripts/run-with-docker.sh | sh`
+- With Docker: `curl https://raw.githubusercontent.com/DanPace725/ChatGPT-Proxy/main/scripts/run-with-docker-1.sh | sh`
 
 
 ### Simple steps
